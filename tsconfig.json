@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "module": "CommonJS",
+        "strict": false,
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "outDir": "dist/",
+        "declaration": true,
+        "baseUrl": ".",
+        "pretty": true
+    },
+    "include": [
+        "src"
+    ],
+}
